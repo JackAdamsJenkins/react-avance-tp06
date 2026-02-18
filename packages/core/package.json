@@ -2,5 +2,8 @@
   "name": "@tp06/core",
   "version": "1.0.0",
   "main": "index.js",
-  "private": true
+  "private": true,
+  "scripts": {
+    "lint": "echo 'No lint for core yet'"
+  }
 }
